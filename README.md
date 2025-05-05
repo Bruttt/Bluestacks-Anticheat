@@ -24,5 +24,5 @@ It uploads a driver to monitor and protect the emulator from external tampering 
 ---
 
 ## 📂 Project Structure
-!Screenshot 2025-05-05 164255.png
+![Screenshot 2025-05-05 164255.png](https://github.com/Bruttt/BluestacksGuard/blob/main/Screenshot%202025-05-05%20164255.png)
 
